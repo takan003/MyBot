@@ -33,7 +33,7 @@
 ### 步驟 1：複製試算表
 
 1. 點擊以下 Google 雲端硬碟連結，建立試算表副本：\
-   Google 雲端硬碟連結
+   [[Google 雲端硬碟連結](https://drive.google.com/drive/folders/1AezuyEmNpQ8PkqJH2Ec3jVe4Xt5E31N8)]
 2. 資料夾包含以下試算表：
    - **我的聊天機器人\_內含主程式\_自由取名.gsheet**：主程式試算表。
    - **成員名冊\_內含程式\_自由取名.gsheet**：成員名冊，含選單功能。
