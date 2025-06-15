@@ -170,8 +170,8 @@
 
 ## 致謝
 
-由 Chang, Chia-Cheng（張家誠）開發。\
-透過 贊助連結 支持本專案，或訪問 GAS Station。
+歡迎參觀我的網站 [Gas Station](https://script.google.com/a/macros/gms.hlgs.hlc.edu.tw/s/AKfycbzS29sVfv6vUKcXY8zhHl8XZKU52VfvjxzqeEQACrAufS7JiWOexlIYgyfgtCusAVJt/exec "GAS Station")，裡頭也許會有一些能幫助您的工具、程式，甚至是提供您創意的靈感。如果您願意的話，也非常樂意接受您的[打賞](https://p.ecpay.com.tw/36FF207 "打賞")。❤️  
+Copyright (c) 2025 Chang, Chia-Cheng 張家誠
 
 ---
 
